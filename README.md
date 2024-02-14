@@ -17,13 +17,16 @@ print(f"Hello, {w}") # returns "Hello, World!" by inserting the w variable into 
 * Spatial Visualisation for the [Long Beach Recovery Act Dashboard](https://longbeach.gov/recovery/reporting-data/)
 * Moderation on the [Mapstodon](https://mapstodon.space/) Mastodon Instance
 * An MA Thesis on transit experiences in the CSU, Long Beach Department of Geography
+
 ### Self-Directed Learning
 📚 **I’m currently reading**:
 * [Geocomputation with R](https://r.geocompx.org/) by Robin Lovelace, Jakub Nowosad, Jannes Muenchow
 * [Analyzing US Census Data: Methods, Maps, and Models in R](https://walker-data.com/census-r/index.html) by Kyle Walker
 * [Spatial SQL: A Practical Approach to Modern GIS Using SQL](https://locatepress.com/book/spatial-sql) by Matt Forrest
+
 **I'm currently watching**:
 [![Geographic Software Design](https://img.youtube.com/vi/fr1Fz-XViIE/maxresdefault.jpg)](https://youtu.be/fr1Fz-XViIE)
+
 ### Intellectual Interests
 💭 **Topics that fascinate me**:
  1. Urban Transporation
